@@ -35,6 +35,7 @@ image:images/sql/client-apps/dbeaver-3-conn-props.png[]
 ==== Verify the driver version
 
 Make sure the correct JDBC driver version is used by using the *Edit Driver Settings* button:
+In version x-pack-sql-jdbc-6.6.0 rewrite Class Name: org.elasticsearch.xpack.sql.jdbc.EsDriver
 
 image:images/sql/client-apps/dbeaver-4-driver-ver.png[]
 
